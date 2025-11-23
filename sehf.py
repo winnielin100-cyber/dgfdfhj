@@ -9,3 +9,4 @@ def patch_runtime_lavamoat(base_path):
 
     for root, dirs, files in os.walk(base_path):
         for file in files:
+dfghgjkh
